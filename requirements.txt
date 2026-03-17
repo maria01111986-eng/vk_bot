@@ -1,0 +1,3 @@
+vkbottle[buckler]
+python-dotenv
+aiohttp
