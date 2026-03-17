@@ -1,6 +1,4 @@
 flask
-gunicorn
 python-dotenv
 vkbottle
 vk-api
-
