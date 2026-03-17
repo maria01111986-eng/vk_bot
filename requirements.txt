@@ -3,3 +3,4 @@ gunicorn
 python-dotenv
 vkbottle
 vk-api
+python main.py
